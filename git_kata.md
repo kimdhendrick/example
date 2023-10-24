@@ -8,7 +8,7 @@
 
 Setup:
 ```bash
-git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative”
+git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
 ```
 
 Create a repo to play with or clone my example repo:
@@ -23,7 +23,7 @@ git lg
 
 **Rebasing 101**
 
-Think of rebasing as “changing your starting point”
+Think of rebasing as "changing your starting point”
 
 1. pull main
     
